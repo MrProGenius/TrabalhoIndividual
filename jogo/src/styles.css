@@ -1,0 +1,10 @@
+.fundo, body{
+  background: lightblue url(../../jogo/src/assets/img/bg.jpg) repeat fixed center;
+
+}
+
+  .alinhamento{
+    color: white;
+
+    align-items: center;
+  }
